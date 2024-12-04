@@ -1,4 +1,4 @@
-Carbon Savings Calculator
+Carbon Footprint Tracker
 
 Overview:-
 This program calculates the CO2 savings for a trip based on various parameters such as distance, fuel type, traffic conditions, number of riders, idle time, and whether the trip occurs at night. The result is displayed in grams of CO2 savings.
@@ -54,13 +54,21 @@ Code Explanation:-
 - The calculated CO2 savings are displayed in grams.
 
 Example:-
-Input:
+
+Input: 
+
 Enter distance (in kilometers): 70
+
 Enter fuel type (petrol,diesel,ev): petrol
+
 Enter traffic condition (light,moderate,heavy): moderate
+
 Enter number of riders: 3
+
 Enter idle time (in minutes): 15
+
 Is it night_time (yes/no): no
 
 Output:
+
 CO2 Savings: 13034.666666666668 grams
